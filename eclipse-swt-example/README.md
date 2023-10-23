@@ -1,6 +1,6 @@
 # Eclipse SWT Example
 
-<img alt="Eclipse.org logo" src="https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-ide/eclipse_logo_white.svg" width="">
+<img src="https://eclipseide.org/images/logo/eclipse-ide-logo-white.svg" alt="eclipseide.org" width="500">
 
 SWT Examples [https://www.eclipse.org/swt/examples.php](https://www.eclipse.org/swt/examples.php)
 
@@ -36,6 +36,6 @@ goto main in source code: [src/org/eclipse/swt/examples/addressbook/AddressBook.
 
 绘图，窗口和动画绘制
 
-![](README/VVideo_20231023215401.wmv)
+![](README/Video_20231023215401_编辑.gif)
 
 goto main in source code: [src/org/eclipse/swt/examples/graphics/GraphicsExample.java:638](src/org/eclipse/swt/examples/graphics/GraphicsExample.java:638)
