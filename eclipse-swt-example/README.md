@@ -1,6 +1,6 @@
 # Eclipse SWT Example
 
-<img src="https://camo.githubusercontent.com/96ccb0796b98305a4f3605a006cba6c8bbe6f541c0e1b4ea6518203df6e316e2/68747470733a2f2f65636c697073656964652e6f72672f696d616765732f6c6f676f2f65636c697073652d6964652d6c6f676f2d77686974652e737667" alt="eclipseide.org" width="500">
+<img src="README/Eclipse-Luna-Logo.svg" alt="eclipseide.org" width="500">
 
 SWT Examples [https://www.eclipse.org/swt/examples.php](https://www.eclipse.org/swt/examples.php)
 
