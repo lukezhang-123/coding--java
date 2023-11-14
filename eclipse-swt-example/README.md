@@ -29,7 +29,7 @@ dependency lib, swt core jar (should use the same version, in same directory wit
 ![](README/2023-10-23-21-49-44.png)
 
 
-goto main in source code: [src/org/eclipse/swt/examples/addressbook/AddressBook.java:73](src/org/eclipse/swt/examples/addressbook/AddressBook.java:73)
+goto main in source code: [src/org/eclipse/swt/examples/addressbook/AddressBook.java:73](src/org/eclipse/swt/examples/addressbook/AddressBook.java#L73)
 
 ---
 ## GraphicsExample
