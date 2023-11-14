@@ -38,4 +38,4 @@ goto main in source code: [src/org/eclipse/swt/examples/addressbook/AddressBook.
 
 ![](README/Video_20231023215401_编辑.gif)
 
-goto main in source code: [src/org/eclipse/swt/examples/graphics/GraphicsExample.java:638](src/org/eclipse/swt/examples/graphics/GraphicsExample.java:638)
+goto main in source code: [src/org/eclipse/swt/examples/graphics/GraphicsExample.java:638](src/org/eclipse/swt/examples/graphics/GraphicsExample.java#L638)
