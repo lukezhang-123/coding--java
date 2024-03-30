@@ -20,4 +20,5 @@ https://adoptium.net/zh-CN/temurin/archive/?version=8
 
 ### java.lang.String
 
-[java.lang.String](src-jdk/java/lang/String.java#L111)
+String类型定义，final [java/lang/String.java#L111](src-jdk/java/lang/String.java#L111)
+
